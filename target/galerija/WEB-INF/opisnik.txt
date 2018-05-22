@@ -1,0 +1,60 @@
+got01.jpg
+The titan of Braavos
+titan, Braavos, city, entrance
+got02.jpg
+The white walkers
+white, walkers, winter, ice, snow
+got03.jpg
+The wall
+wall, night, watch, guard
+got04.jpg
+Drogon flying
+dragon, Drogon, dracarys, fire
+got05.jpg
+The iron throne
+iron, throne, king
+got06.jpg
+Targaryen's logo
+Targaryen, logo, dragons, Daenerys
+got07.jpg
+Leader of the white walkers
+leader, white, walkers, winter, ice, snow
+got08.jpg
+Temple of the many faced god
+Braavos, Arya, valar, morghulis, god, faces, Stark
+got09.jpg
+The king's landing
+king, city, capital
+got10.jpg
+Hodor
+hodor
+got11.jpg
+The wildlings
+wildlings, camp, snow, ice, tent
+got12.jpg
+Braavos
+Arya, Braavos, titan, city, Stark
+got13.jpg
+The wildfire
+wildfire, explosion, defence, war, death, city, destruction
+got14.jpg
+Daenerys and the dragon
+Daenerys, Targaryen, dragon, khaleesi, Drogon
+got15.jpg
+Samwell Tarly
+Sam, Samwell, friend, watch
+got16.jpg
+Melissandre
+lady, Mellisandre, priestess, god, fire, magic
+got17.jpg
+Jon Snow
+Jon, Snow, watch, soldier, Stark
+got18.jpg
+Tyrion Lannister
+Tyrion, Lannister, dwarf
+got19.jpg
+George R. R. Martin
+George, Martin, writer, story
+got20.jpg
+Winter is coming
+winter, Stark, wolf
